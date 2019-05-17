@@ -4,10 +4,10 @@
 <title>Testing</title>
 </head>
 <body>
-  <table>
+  <table border="1">
     <?php for ($i=0; $i<5; $i++): ?>
     <tr>
-      <td><?= $i ?></td>
+      <td><?php echo $i ?></td>
     </tr>
     <?php endfor ?>
   </table>
