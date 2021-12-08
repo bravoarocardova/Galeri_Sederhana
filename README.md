@@ -1,2 +1,2 @@
-# bravoarocardova.github.io
+# Web Galery sederhana
 Website galery sederhana dengan boostrap v4
